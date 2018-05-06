@@ -1,6 +1,7 @@
-.scrapbook-container{
+.scrapbook-image{
     margin:10px auto;
     min-height:30vh;
     position:relative;
-    width:30vw
+    width:20%;
+    border:10px solid #fff
 }

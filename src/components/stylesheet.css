@@ -1,0 +1,51 @@
+.ExpandedMenuSize{
+    width:75vw;
+
+}
+
+.MyAccount{
+    background-color: #B8D4E3;
+}
+.CreateAccount{
+    background-color: #EEFFDB;
+
+}
+
+.FeatureSetLink{
+    background-color: #85C7DE;
+
+}
+
+.ExpandMenuImage{
+margin:2vw 2vh;
+height:12vh
+}
+.divPicture{
+    display: inline-block;
+    margin-right: 10vw;
+}
+
+.AccountFont{
+    color:#85C7DE;
+    font-weight: bold;
+}
+.CreateAccountPictureDiv{
+    margin-right: 5vw;
+
+}
+
+.divPictureFeature{
+    display: inline-block;
+}
+.LongTextFeatureSet {
+    width: 45vw;
+    display: inline-block;
+    padding-top: 5%;
+    position: absolute
+}
+
+.FeatureSetFont{
+    color:whitesmoke;
+    font-weight: bold;
+
+}
